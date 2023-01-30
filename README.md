@@ -1,4 +1,4 @@
-#Meme Generator
+# Meme Generator
 
 Create funny memes by typing in the top and the bottom text and then getting a random meme when the button is clicked. ScreenShot and download the meme.
 
