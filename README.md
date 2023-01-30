@@ -1,3 +1,15 @@
+#Meme Generator
+
+Create funny memes by typing in the top and the bottom text and then getting a random meme when the button is clicked. ScreenShot and download the meme.
+
+
+
+![image](https://user-images.githubusercontent.com/80278680/215373826-10fec5d6-5731-451d-bfd1-7c242007b9e1.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
